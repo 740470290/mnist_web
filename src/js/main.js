@@ -117,7 +117,7 @@ class Main {
                 }
             });
         };
-        img.src = this.canvas.toDataURL();
+        img.src = this.canvas.toDataRL();
     }
 }
 
